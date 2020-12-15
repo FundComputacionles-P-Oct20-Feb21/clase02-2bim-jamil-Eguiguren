@@ -1,4 +1,4 @@
-//  Ejemplo de uso de arreglos bidimensional
+ //  Ejemplo de uso de arreglos bidimensional
 //
 1.  Inicio
 2.  (notasEstudiantes(2)(3),i[1-n])
